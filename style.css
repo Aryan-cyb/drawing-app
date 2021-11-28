@@ -1,0 +1,20 @@
+body{
+background-color: aqua;
+}
+
+#score{
+font-size:35px;
+margin-left: 20px;
+}
+
+#timer{
+margin-right: 20px;
+font: size 35px;
+float: right;
+}
+
+p,span{
+padding-top: 10px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:25px;
+}
